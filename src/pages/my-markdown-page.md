@@ -1,3 +1,7 @@
+---
+title: Markdown page example
+---
+
 # Postgres as a Service
 
 ## 1. CloudPG
