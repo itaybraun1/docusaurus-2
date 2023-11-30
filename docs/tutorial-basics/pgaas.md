@@ -3,16 +3,10 @@ sidebar_position: 7
 ---
 
 # PostgreSQL as a Service!
+Postgres as a Service (PaaS) **simplifies database management**, with vendors like Amazon RDS, Google Cloud SQL, and Neon streamlining server creation and allowing easy integration of **extensions**. Some, even provide open-source options for greater customization. These services also include **basic monitoring** features, enabling users to optimize PostgreSQL databases effortlessly. This diverse range of PaaS offerings caters to different preferences and project needs, making database management more accessible and efficient.
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 
-Docusaurus has **much more to offer**!
-
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
-
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
-
-## What's next?
+## PGaaS Providers
 
 - Read the [official documentation](https://docusaurus.io/).
 - Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
