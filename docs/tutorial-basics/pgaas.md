@@ -7,9 +7,9 @@ Postgres as a Service (PaaS) **simplifies database management**, with vendors li
 
 
 ## PGaaS Providers
-
-- Read the [official documentation](https://docusaurus.io/).
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- [AWS RDS](https://aws.amazon.com/rds/) - Set up, operate, and scale a relational database in the cloud with just a few clicks.
+- [Google Cloud SQL for Postgres](https://cloud.google.com/sql/postgresql)
+- [Neon.tech](https://neon.tech) - We separate storage and compute to offer autoscaling, branching, and bottomless storage.
+- [Tembo.io](https://tembo.io)
+- [Supabase](https://supabase.com) - Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.
+- [Hydra](https://www.hydra.so) - Hydra is an open source, column-oriented Postgres. Query billions of rows instantly, no code changes.
