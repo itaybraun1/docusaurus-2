@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Postgres Monitoring',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Learn how to moniotor a Postgres Seerver.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'DBSRE',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Practical methodology, with tools and scripts for the busy DB Site Reliablility Engineer.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Postgres Resources',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Every content here is a lesson learned the hard way. 
       </>
     ),
   },
